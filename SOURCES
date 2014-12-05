@@ -1,0 +1,4 @@
+TARGETNAME=HookZwLoadDriver
+TARGETPATH=.
+TARGETTYPE=DRIVER
+SOURCES=Driver.c HookSysenter.c
